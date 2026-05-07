@@ -89,3 +89,30 @@ If starting from scratch, follow this progression:
 | Coding algorithms manually | Machine-Learning-from-Scratch |
 | Broader ML ecosystem | ElizaLo/Machine-Learning |
 | Advanced ML math | math_for_ai |
+
+---
+
+## Bonus Repositories
+
+### fast.ai
+Practical deep learning with Python.
+
+### Scikit-learn
+Industry-standard machine learning library.
+
+### ML From Scratch (eriklindernoren)
+A popular repository for implementing machine learning algorithms manually.
+
+---
+
+## Updated Recommended Path
+
+| Stage | Repository |
+| :--- | :--- |
+| Math foundations | Mathematics-for-ML |
+| Structured curriculum | ML-foundations |
+| Coding algorithms manually | Machine-Learning-from-Scratch / ML-From-Scratch (eriklindernoren) |
+| Broader ML ecosystem | ElizaLo/Machine-Learning |
+| Practical deep learning | fast.ai |
+| Industry-standard tools | Scikit-learn |
+| Advanced ML math | math_for_ai |
