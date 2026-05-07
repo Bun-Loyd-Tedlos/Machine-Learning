@@ -84,18 +84,6 @@ If starting from scratch, follow this progression:
 
 | Stage | Repository |
 | :--- | :--- |
-| Math foundations | Mathematics-for-ML |
-| Structured curriculum | ML-foundations |
-| Coding algorithms manually | Machine-Learning-from-Scratch |
-| Broader ML ecosystem | ElizaLo/Machine-Learning |
-| Advanced ML math | math_for_ai |
-
----
-
-### Updated Recommended Path
-
-| Stage | Repository |
-| :--- | :--- |
 | Math foundations | [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML?utm_source=chatgpt.com) |
 | Structured curriculum | [ML-foundations](https://github.com/jonkrohn/ML-foundations?utm_source=chatgpt.com) |
 | Coding algorithms manually | [Machine-Learning-from-Scratch](https://github.com/Girrajjangid/Machine-Learning-from-Scratch?utm_source=chatgpt.com) |
