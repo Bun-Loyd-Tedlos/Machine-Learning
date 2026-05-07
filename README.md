@@ -92,20 +92,20 @@ If starting from scratch, follow this progression:
 
 ---
 
-## Bonus Repositories
+### Bonus Repositories
 
 ### fast.ai
-Practical deep learning with Python.
+- Practical deep learning with Python.
 
 ### Scikit-learn
-Industry-standard machine learning library.
+- Industry-standard machine learning library.
 
 ### ML From Scratch (eriklindernoren)
-A popular repository for implementing machine learning algorithms manually.
+- A popular repository for implementing machine learning algorithms manually.
 
 ---
 
-## Updated Recommended Path
+### Updated Recommended Path
 
 | Stage | Repository |
 | :--- | :--- |
