@@ -92,27 +92,13 @@ If starting from scratch, follow this progression:
 
 ---
 
-### Bonus Repositories
-
-### fast.ai
-- Practical deep learning with Python.
-
-### Scikit-learn
-- Industry-standard machine learning library.
-
-### ML From Scratch (eriklindernoren)
-- A popular repository for implementing machine learning algorithms manually.
-
----
-
 ### Updated Recommended Path
 
 | Stage | Repository |
 | :--- | :--- |
-| Math foundations | Mathematics-for-ML |
-| Structured curriculum | ML-foundations |
-| Coding algorithms manually | Machine-Learning-from-Scratch / ML-From-Scratch (eriklindernoren) |
-| Broader ML ecosystem | ElizaLo/Machine-Learning |
-| Practical deep learning | fast.ai |
-| Industry-standard tools | Scikit-learn |
-| Advanced ML math | math_for_ai |
+| Math foundations | [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML?utm_source=chatgpt.com) |
+| Structured curriculum | [ML-foundations](https://github.com/jonkrohn/ML-foundations?utm_source=chatgpt.com) |
+| Coding algorithms manually | [Machine-Learning-from-Scratch](https://github.com/Girrajjangid/Machine-Learning-from-Scratch?utm_source=chatgpt.com) |
+| Broader ML ecosystem | [ElizaLo/Machine-Learning](https://github.com/ElizaLo/Machine-Learning?utm_source=chatgpt.com) |
+| Practical deep learning | [fast.ai](https://github.com/fastai/fastai?utm_source=chatgpt.com) |
+| Industry-standard tools | [Scikit-learn](https://github.com/scikit-learn/scikit-learn?utm_source=chatgpt.com) |
